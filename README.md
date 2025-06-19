@@ -24,7 +24,6 @@ Always open to learning and contributing to exciting tech projects.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" height="30" alt="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring Boot" height="30" alt="Spring Boot"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" height="30" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" height="30" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" title="Firebase" height="30" alt="Firebase"/>
 </p>
 
@@ -32,9 +31,9 @@ Always open to learning and contributing to exciting tech projects.
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" height="30" alt="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" height="30" alt="Git"/>
-    <img src="https://img.icons8.com/color/48/chrome--v1.png" title="Chrome Extensions" height="30" alt="Chrome Extension"/>
-  <img src="https://img.shields.io/badge/-n8n-%23F76808?style=flat&logo=n8n&logoColor=white" title="n8n" height="24"/>
-  <img src="https://img.shields.io/badge/-Web%20Scraping-%234B8BBE?style=flat" title="Web Scraping" height="24"/>
+  <img src="https://img.icons8.com/color/48/chrome--v1.png" title="Chrome Extensions" height="30" alt="Chrome Extension"/>
+  <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/gear-24.svg" title="n8n Automation Platform" height="30" alt="Automation"/>
+  <img src="https://img.icons8.com/emoji/48/spider-emoji.png" title="Web Scraping / Crawling" height="30" alt="Web Scraping"/>
 </p>
 
 **🌍 Languages**  
