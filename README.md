@@ -2,7 +2,6 @@
 # 👋 Hi, I'm **Volodymyr Havryliuk**
 
 **🌐 Full Stack Developer from Ukraine**  
-💼 6+ months of professional experience  
 🎯 I'm a motivated full stack developer.  Currently working with Java, Spring Boot, and modern frontend tools like Angular and React.  
 Always open to learning and contributing to exciting tech projects.
 
