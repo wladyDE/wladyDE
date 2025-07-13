@@ -35,15 +35,6 @@ Always open to learning and contributing to exciting tech projects.
   <img src="https://img.icons8.com/emoji/48/spider-emoji.png" title="Web Scraping / Crawling" height="30" alt="Web Scraping"/>
 </p>
 
-**🌍 Languages**  
-<p align="left">
-  <img src="https://img.icons8.com/color/48/ukraine.png" title="Ukrainian (native)" height="28"/>
-  <img src="https://img.icons8.com/ios-filled/50/999999/flag.png" title="Russian (fluent)" height="28"/>
-    <img src="https://img.icons8.com/color/48/great-britain.png" title="English (B2)" height="28"/>
-  <img src="https://img.icons8.com/color/48/germany.png" title="German (C1)" height="28"/>
-</p>
-
-
 
 
 **📫 Get in Touch**  
